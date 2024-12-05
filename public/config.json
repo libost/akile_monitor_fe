@@ -1,4 +1,4 @@
 {
-  "socket": "ws://commu.mcbang.fun/ws",
-  "apiURL": "http://commu.mcbang.fun"
+  "socket": "wss://commu.mcbang.fun/ws",
+  "apiURL": "https://commu.mcbang.fun"
 }
